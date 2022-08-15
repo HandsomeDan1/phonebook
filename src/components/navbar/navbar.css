@@ -1,0 +1,16 @@
+.link{
+    margin: 16px 8px 40px ;
+    padding: 6px 16px;
+    border: 1px solid transparent;
+    font-family: 'Jost', sans-serif;
+    text-decoration: none;
+    color: #777777;
+    font-size: 14px;
+    transition-duration: 0.2s;
+    user-select: none;
+}
+
+.link:hover{
+    border: 1px solid #199e81;
+    color: #199e81;
+}

@@ -1,0 +1,11 @@
+.skeletons {
+    margin: auto;
+    width: 90%;
+}
+
+.loaders{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

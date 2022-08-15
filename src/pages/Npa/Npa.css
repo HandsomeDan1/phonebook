@@ -1,0 +1,30 @@
+table, th, td{
+    border: 1px solid #e5e5e5;
+    border-collapse: collapse;
+    padding: 5px 10px;
+    font-family: 'Jost', sans-serif;
+}
+
+.table-title{
+    font-size: 30px;
+    width: 80%;
+    margin: 30px auto;
+    font-family: 'Jost', sans-serif;
+}
+
+.table{
+    width: 80%;
+    margin: 30px auto;
+}
+
+.table-header{
+    background: #e5e5e5;
+    color: #199e81;
+}
+.table-header-title{
+    width: 80%;
+}
+
+.table-header-desc{
+    width: 20%;
+}
